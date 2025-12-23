@@ -175,7 +175,7 @@ List<int> lessThan(List<int> list,int threshold){
 
 
 void main(){
-  print('Результат работы функции squareList = ${lessThan([1,2,3,4], 2)}');
+  print('Результат работы функции lessThan = ${lessThan([1,2,3,4], 2)}');
 }
 //Задание 16
 List<int> equalTo(List<int> list,int target){
@@ -191,6 +191,6 @@ List<int> equalTo(List<int> list,int target){
 
 
 void main(){
-  print('Результат работы функции squareList = ${equalTo([1,2,3,4],3)}');
+  print('Результат работы функции equalTo = ${equalTo([1,2,3,4],3)}');
 }
 
